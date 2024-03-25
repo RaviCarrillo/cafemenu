@@ -19,6 +19,13 @@ h2 {
     font-size: 30px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
 hr {
     height: 2px;
     background-color: brown;
@@ -34,6 +41,10 @@ body {
 .established {
     font-style: italic;
 }
+
+.address {
+    margin-bottom: 5px;
+  }
 
 
 .menu {
